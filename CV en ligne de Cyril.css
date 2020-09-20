@@ -1,0 +1,57 @@
+
+div#header h1 {
+    margin-left:25%;
+    width:50%;
+}
+div#header {
+    background-color:#eeeeee;
+    height:350px;
+    width:100%;
+    padding-top:25px;
+    padding-bottom:300px;
+}
+
+div#header h4 {
+    margin-left:25%;
+    width:50%;
+}
+div#header img {
+    width:17%;
+    margin-left:70%;
+}
+
+div#Contenu {
+    text-align:center;
+    margin-bottom:50px;
+}
+
+div#Contenu h1{
+    text-align:left;
+    margin-left:12%;
+    margin-top:2%;
+    font-weight: bold;
+}
+div#Contenu h3 {
+    font-weight:900;
+}
+footer{
+    background-color: #363830;
+    width:100%;
+    height:50px;
+    text-align:center;
+    padding-top:15px;
+    font-size:0.7em;
+    color:white;
+}
+
+.sansserif {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  div#Contenu h6{
+      text-align:left;
+      margin-left:30%;
+  }
+  div#ListeMission {
+      margin-left:6%;
+  }
